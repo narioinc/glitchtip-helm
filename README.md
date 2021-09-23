@@ -1,5 +1,5 @@
-# Glitchtip-helm
-Helm charts for runnign Glitchtip on kubernetes
+# Glitchtip Helm Chart
+Helm charts for running Glitchtip on kubernetes
 
 To run the helm chart
 1) clone this repo
